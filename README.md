@@ -1,3 +1,12 @@
+---
+name: "Instructional Videos Framework"
+description: "Operationalises evidence from multimedia-learning research as concrete decisions for educators making instructional video."
+categories: [content-distribution, web-app, built-by-ai]
+updated: 2026-07-16
+deployments:
+  Appsite:
+    "Instructional Videos Framework": https://instructionalvideos.edutools.fyi/
+---
 # Instructional Video Guide
 
 An interactive, evidence-based guide for creating effective instructional videos in higher education. This application operationalizes cognitive science principles (specifically Mayer's Principles of Multimedia Learning) into actionable tasks and advice for educators.
