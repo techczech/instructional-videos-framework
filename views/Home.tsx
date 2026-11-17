@@ -1,3 +1,4 @@
+import { CiteThisPage } from '../citation/CiteThisPage';
 
 import React, { useState } from 'react';
 import { appInfo, navigationItems } from '../data/home';
@@ -173,6 +174,7 @@ const Home: React.FC<Props> = ({ onNavigate, onOpenSearch }) => {
         <a href="https://dominiklukes.net/" target="_blank" rel="noreferrer" className="inline-flex items-center text-indigo-600 font-bold hover:text-indigo-800 transition-colors">
             {uiContent.home.visitAuthor} <ExternalLink size={16} className="ml-2" />
         </a>
+      <CiteThisPage />
       </section>
     </div>
   );
