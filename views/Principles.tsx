@@ -205,7 +205,7 @@ const Principles: React.FC = () => {
                                 </div>
                             </div>
                             <p className="text-sm text-slate-500 italic">
-                                *Effect sizes for Mayer's principles are derived from meta-analyses. Values > 0.4 are considered educationally significant.
+                                *Effect sizes for Mayer's principles are derived from meta-analyses. Values &gt; 0.4 are considered educationally significant.
                             </p>
                         </div>
                     </div>
